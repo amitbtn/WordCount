@@ -51,6 +51,7 @@ public class WordCounter {
             this.map = map;
 
         }
+
         @Override
         public void run() {
             //read the file and put it in the map
